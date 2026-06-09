@@ -1,0 +1,23 @@
+{
+  "name": "دانش‌یار",
+  "short_name": "دانش‌یار",
+  "description": "ابزار هوشمند برای دانش اموزان",
+  "start_url": "/Daneshyar/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
